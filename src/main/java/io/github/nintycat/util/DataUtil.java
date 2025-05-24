@@ -1,9 +1,9 @@
-package com.sixty.util;
+package io.github.nintycat.util;
 
-import com.sixty.annotation.JsonEntity;
-import com.sixty.core.DeleteRepository;
-import com.sixty.core.InsertRepository;
-import com.sixty.core.QueryRepository;
+import io.github.nintycat.annotation.JsonEntity;
+import io.github.nintycat.core.DeleteRepository;
+import io.github.nintycat.core.InsertRepository;
+import io.github.nintycat.core.QueryRepository;
 
 public class DataUtil {
 

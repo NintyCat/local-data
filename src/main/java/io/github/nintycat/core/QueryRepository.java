@@ -1,4 +1,4 @@
-package com.sixty.core;
+package io.github.nintycat.core;
 
 import java.util.ArrayList;
 import java.util.List;

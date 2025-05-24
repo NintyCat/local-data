@@ -1,7 +1,7 @@
-package com.sixty;
+package io.github.nintycat;
 
-import com.sixty.entity.GroupInfo;
-import com.sixty.util.DataUtil;
+import io.github.nintycat.entity.GroupInfo;
+import io.github.nintycat.util.DataUtil;
 
 public class MainTest {
     public static void main(String[] args) {

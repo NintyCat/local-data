@@ -1,4 +1,4 @@
-package com.sixty.core;
+package io.github.nintycat.core;
 
 public class DeleteRepository<ID,T> extends BaseRepository<ID,T>{
     public DeleteRepository(Class<T> entityClass, String file) {

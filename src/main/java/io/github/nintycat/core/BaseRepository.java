@@ -1,7 +1,7 @@
-package com.sixty.core;
+package io.github.nintycat.core;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.sixty.annotation.JsonId;
+import io.github.nintycat.annotation.JsonId;
 
 import java.io.File;
 import java.io.IOException;

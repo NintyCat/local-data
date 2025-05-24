@@ -1,7 +1,7 @@
-package com.sixty.entity;
+package io.github.nintycat.entity;
 
-import com.sixty.annotation.JsonEntity;
-import com.sixty.annotation.JsonId;
+import io.github.nintycat.annotation.JsonEntity;
+import io.github.nintycat.annotation.JsonId;
 
 @JsonEntity(file = "groupInfo.json")
 public class GroupInfo {

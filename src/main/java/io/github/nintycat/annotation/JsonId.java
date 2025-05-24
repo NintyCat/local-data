@@ -1,9 +1,8 @@
-package com.sixty.annotation;
+package io.github.nintycat.annotation;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
 
 @Retention(RetentionPolicy.RUNTIME)
-public @interface JsonEntity {
-    String file() default "";
+public @interface JsonId {
 }

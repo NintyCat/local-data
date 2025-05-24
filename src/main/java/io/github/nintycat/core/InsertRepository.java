@@ -1,4 +1,4 @@
-package com.sixty.core;
+package io.github.nintycat.core;
 
 public class InsertRepository<ID,T> extends BaseRepository<ID,T> {
 
